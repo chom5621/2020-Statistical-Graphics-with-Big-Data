@@ -1,1 +1,1 @@
-# Statistical-Graphics-with-Big-Data
+# Statistical Graphics with Big Data using R
